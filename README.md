@@ -38,8 +38,6 @@ I enjoy building **practical applications**, working in a **collaborative team**
 
 ### 🔧 Tools
 - Git & GitHub
-- MVC Architecture
-- PDF Export, File Upload
 
 ---
 
